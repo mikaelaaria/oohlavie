@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://quirky-mestorf-228d25.netlify.com/"
 languageCode = "en-us"
 title = "ooh, la vie"
 theme = "ananke"
